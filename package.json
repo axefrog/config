@@ -1,0 +1,11 @@
+{
+  "name": "@frptools/config",
+  "version": "1.0.1",
+  "description": "Common base rule sets for tslint, eslint, etc.",
+  "author": "Nathan Ridley <axefrog@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "tslint-eslint-rules": "^4.1.1"
+  }
+}
