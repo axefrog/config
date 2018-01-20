@@ -6,12 +6,6 @@
   "parserOptions": {
     "sourceType": "module"
   },
-  "globals": {
-    "trace": true,
-    "traceGroup": true,
-    "log": true,
-    "notImplemented": true
-  },
   "rules": {
     "no-const-assign": "warn",
     "no-this-before-super": "warn",
